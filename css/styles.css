@@ -33,3 +33,7 @@ body {
 .info-box-outter {
   margin-bottom: 10px;
 }
+
+.info-seperator {
+  width: 95%;
+}
