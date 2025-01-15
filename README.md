@@ -1,13 +1,18 @@
 # Portfolio Page
 
-By Makeye Buchanan
+By Makeye Buchanan.
 My own personal web development portfolio.
+Click [here](MakeyeB.github.io/portfolio-page) to view on GitHub Pages.
 
 #### Technologies Used
 
 * HTML
 * CSS
 * Bootstrap
+
+#### Known Bugs
+
+No known bugs.
 
 ## Description
 
