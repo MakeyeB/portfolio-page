@@ -2,7 +2,7 @@
 
 By Makeye Buchanan.
 My own personal web development portfolio.
-Click [here](MakeyeB.github.io/portfolio-page) to view on GitHub Pages.
+Click [here](https://makeyeb.github.io/portfolio-page) to view on GitHub Pages.
 
 #### Technologies Used
 
